@@ -3,6 +3,8 @@ name = "trosna-gisteresis"
 version = "0.1.0"
 description = "Hysteresis decision rule with dwell time and cooldown period for streaming resource-imbalance indices"
 readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
 authors = [
     { name = "Andrey Ferubko", email = "ferubko1999@yandex.ru" }
 ]
